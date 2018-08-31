@@ -26,7 +26,6 @@ function Letter(letter) {
 function pickWord(){
     var rand = Math.floor(Math.random() * wordBank.length)
     var myWord = new Word(wordBank[rand])
-    console.log(myWord)
     return myWord
 }
 
