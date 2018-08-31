@@ -69,7 +69,6 @@ function compareToTarget(letterGuess){
     newRound()
 }
 
-// Compare input with word
 function guessLetter() {
 
     var display = []
