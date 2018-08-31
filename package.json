@@ -1,0 +1,23 @@
+{
+  "name": "word-constructor-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/everysf/word-constructor-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/everysf/word-constructor-nodejs/issues"
+  },
+  "homepage": "https://github.com/everysf/word-constructor-nodejs#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0"
+  }
+}
