@@ -1,6 +1,6 @@
 var inquirer = require("inquirer")
 
-var wordBank = ["alpha", "beta", "gamma"]
+var wordBank = ["chicken", "farley", "bacon", "ostrich", "lemur", "emu", "oysters", "tuna", "crabs"]
 
 var guessLimit = 10;
 
